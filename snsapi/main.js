@@ -3,7 +3,7 @@ const data = {
     sign_up_user_params: {
         name: "name",
         bio: "bio",
-        email: "test@email.com",
+        email: "test1@email.com",
         password: "password",
         password_confirmation: "password"
     }
